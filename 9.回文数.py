@@ -55,3 +55,5 @@ if __name__ == '__main__':
     x = 12221
     print(S.isPalindrome(x))
     print(S.isPalindrome_perfect(x))
+    # 牛逼
+    print(x == int(str(x)[::-1]))
