@@ -65,4 +65,4 @@ if __name__ == '__main__':
     nums = [3,3,11,15]
     target = 6
     print(S.twoSum(nums,target))
-    print(dir(list))
+
