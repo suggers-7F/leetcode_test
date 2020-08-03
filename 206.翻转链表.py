@@ -19,7 +19,7 @@ class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         while(head.next):
 
-        l = ListNode()
+         = ListNode()
 
         pass
 
